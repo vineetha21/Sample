@@ -1,0 +1,6 @@
+
+[yum]
+name=yum server
+bareurl=file:///mnt
+enabled=1
+gpgcheck=0
